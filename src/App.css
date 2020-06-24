@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+/* Css section */
+.cardd{
+  border:2px solid black ;
+  background-color:green;
+  width:300px
+}
+ .list{
+   background-color: yellow;
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+ }
+ 
+/* Css section2 */
+ .hello{
+   background-color: salmon;
+ }
+ .tt{
+   background-color: seagreen;
+ }
+ .mm{
+background-color: sienna;
+ }
